@@ -1,0 +1,1 @@
+This project performs descriptive analytics and data preprocessing on a Sales & Discounts dataset. It covers calculating basic statistics (mean, median, mode), creating visualizations like histograms and boxplots, and standardizing data for machine learning.
